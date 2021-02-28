@@ -15,9 +15,9 @@ To see the poster we made of this project follow the next link.
 ---
 
 ## Developed By:
- Rafael de Jesús Anguiano Suárez del Real (2018)
- Cecilia Alexia Torres Guzmán.
- Leonardo Jae Myung Orozco.
- Jose Adrián Ochoa Sánchez.
- Jonatan Leonardo Rodriguez Ocampo.
- Jorge Darío Landazuri 
+ - Rafael de Jesús Anguiano Suárez del Real (2018)
+ - Cecilia Alexia Torres Guzmán.
+ - Leonardo Jae Myung Orozco.
+ - Jose Adrián Ochoa Sánchez.
+ - Jonatan Leonardo Rodriguez Ocampo.
+ - Jorge Darío Landazuri 
